@@ -1,0 +1,1 @@
+db.getCollection('aliases').find({"KEY" : "SPR1011"})
